@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "6285817856153"
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "254748895682"
+global.ownername = "Collome"
+global.ytname = "YT: Collome"
+global.socialm = "GitHub: Collome"
+global.location = "Africa, Kenya, Nairobi"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
+global.ownernumber = '254748895682'  //creator number
+global.ownername = 'Collome' //owner name
 global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +6285817856153'
+global.author = '🦄DGXeon\n\nContact: +254748895682'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://whatsapp.com/channel/0029VagJS3S0LKZJzeN30G0G'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
